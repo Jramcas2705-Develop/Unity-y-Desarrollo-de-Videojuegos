@@ -67,7 +67,7 @@ El jugador puede atacarlos disparandoles, atacandoles cuerpo a cuerpo o atacando
 - Raycast
 - URP --> Shader(Universal Render Pipeline)
 
-# 🎮 Proyecto 3: Nuevo sidescroller en Unity2D.
+# 🎮 Proyecto 3: Nuevo Sidescroller en Unity2D.
 
 ## 📜 Descripción:
 Este proyecto es muy reciente y todavía esta en primera fase de diseño y planificación, pero pretende al menos ser una mejora tanto interna como jugablemente del anterior, mejorando la organización tanto del proyecto como de los scripts y mejorando el *game feel* mediante técnicas de *game juice* (coyote time, input buffer, etc.), además realizaré un GDD (game design document) y contaré con el programa *tiled* para ayudarme realizar un mejor diseño de nivel.
