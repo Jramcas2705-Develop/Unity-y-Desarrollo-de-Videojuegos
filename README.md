@@ -1,8 +1,9 @@
 # Unity-y-Desarrollo-de-Videojuegos
 Este es un repositorio dedicado a los proyectos de Unity y desarrollo de videojuegos
-# 🎮 Unity 3D AI Prototype
+# 🎮 Unity 3D Prototipo de IA Básica y persecución.
 
 Este proyecto es una prueba técnica que mezca las tecnologías de NavMesh (tecnología de navegación definida), con la tecnología de detección de Raycast y una maquina de estados finito.
+El proyecto es una
 
 ## 🚀 Características
 
