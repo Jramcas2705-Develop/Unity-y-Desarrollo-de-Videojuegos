@@ -2,7 +2,7 @@
 Este es un repositorio dedicado a los proyectos de Unity y desarrollo de videojuegos
 # 🎮 Unity 3D AI Prototype
 
-Prototype de IA usando NavMesh y Raycast en Unity.
+Este proyecto es una prueba técnica que mezca las tecnologías de NavMesh (tecnología de navegación definida), con la tecnología de detección de Raycast y una maquina de estados finito.
 
 ## 🚀 Características
 
