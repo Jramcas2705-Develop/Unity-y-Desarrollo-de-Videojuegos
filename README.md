@@ -1,4 +1,4 @@
-# Unity-y-Desarrollo-de-Videojuegos
+# Unity y Desarrollo de Videojuegos
 Este es un repositorio dedicado a los proyectos de Unity y desarrollo de videojuegos
 
 # 🎮 Proyecto 1: Unity 3D Prototipo de IA Básica y Persecución.
