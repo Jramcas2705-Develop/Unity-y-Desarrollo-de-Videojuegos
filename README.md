@@ -1,7 +1,7 @@
 # Desarrollo y diseño de Videojuegos en Unity
 Este es un repositorio dedicado a mis proyectos de Unity y desarrollo de videojuegos
 
-## 🛠️ Programas y Herramientas
+## 🛠️ Principales Programas y Herramientas
 
 - Unity
 - C# en Visual Studio Code
