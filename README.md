@@ -4,7 +4,7 @@ Este es un repositorio dedicado a mis proyectos de Unity y desarrollo de videoju
 ## 🛠️ Programas y Herramientas
 
 - Unity
-- C#
+- C# en Visual Studio Code
 - GitHub Copilot
 - Tiled (Editor de niveles flexible)
 
