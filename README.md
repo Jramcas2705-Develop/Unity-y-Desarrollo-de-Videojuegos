@@ -44,10 +44,11 @@ El jugador puede atacarlos disparandoles, atacandoles cuerpo a cuerpo o atacando
 - Patrullaje aleatorio y orgánico
 - Detección por Raycast
 - Persecución del jugador
+- Sincronización entre zombies
 - Sistema básico de loot
 - Sistema de escondites
 - Sistema de combate sencillo y disparos
-- Gestion de munición
+- Gestion de salud y munición
 
 ## 🎥 Gameplay
 
