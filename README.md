@@ -1,5 +1,5 @@
 # Desarrollo y diseño de Videojuegos en Unity
-Este es un repositorio dedicado a los proyectos de Unity y desarrollo de videojuegos
+Este es un repositorio dedicado a mis proyectos de Unity y desarrollo de videojuegos
 
 ## 🛠️ Programas y Herramientas
 
