@@ -1,7 +1,7 @@
 # Unity y Desarrollo de Videojuegos
 Este es un repositorio dedicado a los proyectos de Unity y desarrollo de videojuegos
 
-# 🎮 Proyecto 1: Unity 3D Prototipo de IA Básica y Persecución.
+# 🎮 Proyecto 1: Prototipo de IA Básica y Persecución en Unity3D.
 
 Este proyecto es una prueba técnica y básica que mezca las tecnologías de NavMesh (tecnología de navegación definida), con la tecnología de detección de Raycast y una maquina de estados finito en el objeto FSM.
 El proyecto consiste en un cilindro que patrulla por una ruta establecida en un mapa con obstáculos y persigue al jugador cuando lo detecta con su Raycast, cambiando su estado interno de patrulla a persecución.
