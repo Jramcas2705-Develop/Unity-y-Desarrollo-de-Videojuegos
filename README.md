@@ -12,7 +12,7 @@ Prototype de IA usando NavMesh y Raycast en Unity.
 
 ## 🎥 Gameplay
 
-[pega aquí el enlace del vídeo]
+[https://www.youtube.com/watch?v=gsMW9WbJTnU]
 
 ## 🛠️ Tecnologías
 
