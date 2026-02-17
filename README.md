@@ -79,3 +79,11 @@ Este proyecto es nuevo y pretende al menos ser una mejora tanto interna como jug
 - Raycast
 - URP --> Shader(Universal Render Pipeline)
 - Tiled
+
+## 🧠 Aprendizajes Clave
+
+- Implementación de IA basada en FSM.
+- Uso eficiente de Raycast para detección.
+- Comunicación entre clases y eventos.
+- Mejora del game feel con técnicas de input buffer y coyote time (entre otros).
+- Organización de scripts mediante programación modular (Scripts de movimiento básico, ataque, inventario, etc.)
