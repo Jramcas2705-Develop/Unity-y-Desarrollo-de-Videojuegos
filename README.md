@@ -35,16 +35,19 @@ El *Finite State Machine* es una de las tecnologías mas recurrentes en el mundo
 # 🎮 Proyecto 2: Sidescroller de Zombies con patrullaje y mecánicas de combate y sigilo en Unity2D.
 
 ## Descripción:
-Este es un proyecto 2D más completo y jugable, consta de un nivel con zombies que patrullan de manera aleatoria y natural a lo largo del mapa, los zombis pueden detectar al jugador si lo ven, si dispara cerca de ellos o si un zombi detecta al jugador, los cercanos también lo perseguiran añadiendo así una capa de interacción y realismo.
+Este es un proyecto 2D más completo y jugable, consta de un nivel con zombies que patrullan de manera aleatoria y natural a lo largo del mapa, los zombis pueden detectar al jugador si lo ven, si dispara cerca de ellos o si un zombi detecta al jugador, los cercanos también lo perseguiran añadiendo así una capa de interacción, realismo e inmersión.
 
 El jugador puede atacarlos disparandoles, atacandoles cuerpo a cuerpo o atacandoles por la espalda cuerpo a cuerpo si no es detectado, lo que acaba con el zombie al instante y compensa el riesgo y la estrategia, el jugador tambien puede esconderse en objetos y entre la hierba que esta colocada a lo largo del nivel lo que le permite planificar estrategias de sigilo o pasar por una zona sin ser visto, cuando el jugador dispara o recibe daño, la información de la munición y la salud se recoge y se muestra en el HUD, el jugador debera de recoger munición de las respectivas cajas que hay repartidas y también se curará con botiquines igualmente repartidos.
 
 ## 🚀 Características
 
-- Patrulla con NavMesh y ruta predefinida.
+- Patrullaje aleatorio y orgánico
 - Detección por Raycast
 - Persecución del jugador
-- Evación de obstáculos
+- Sistema básico de loot
+- Sistema de escondites
+- Sistema de combate sencillo y disparos
+- Gestion de munición
 
 ## 🎥 Gameplay
 
