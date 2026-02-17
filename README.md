@@ -69,7 +69,7 @@ Este proyecto es nuevo y pretende al menos ser una mejora técnica del anterior,
 
 ## 🚀 Características
 
-- Aun no hay características importantes
+- Aun no hay características destacables
 
 ## 🎥 Gameplay
 
