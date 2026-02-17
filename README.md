@@ -64,7 +64,7 @@ El jugador puede atacarlos disparandoles, atacandoles cuerpo a cuerpo o atacando
 # 🎮 Proyecto 3: Nuevo sidescroller en Unity2D.
 
 ## 📜 Descripción:
-Este proyecto es nuevo y pretende al menos ser una mejora técnica del anterior, mejorando la organización tanto del proyecto como de los scripts y mejorando el *game feel* mediante técnicas de *game juice* (coyote time, input buffer, etc.), además contaré con el programa *tiled* para realizar un mejor diseño de nivel.
+Este proyecto es nuevo y pretende al menos ser una mejora interna y técnica del anterior, mejorando la organización tanto del proyecto como de los scripts y mejorando el *game feel* mediante técnicas de *game juice* (coyote time, input buffer, etc.), además contaré con el programa *tiled* para realizar un mejor diseño de nivel.
 
 ## 🚀 Características
 
