@@ -80,7 +80,7 @@ Este proyecto es nuevo y pretende al menos ser una mejora tanto interna como jug
 - URP --> Shader(Universal Render Pipeline)
 - Tiled
 
-## 🧠 Aprendizajes Clave
+# 🧠 Aprendizajes Finales Claves
 
 - Implementación de IA basada en FSM.
 - Uso eficiente de Raycast para detección.
