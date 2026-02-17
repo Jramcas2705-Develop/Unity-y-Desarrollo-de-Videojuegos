@@ -8,6 +8,12 @@ Este es un repositorio dedicado a mis proyectos de Unity y desarrollo de videoju
 - GitHub Copilot
 - Tiled (Editor de niveles flexible)
 
+## Índice:
+
+- Proyecto 1: Prototipo de IA Básica y Persecución en Unity3D.
+- Proyecto 2: Sidescroller de Zombies con patrullaje y mecánicas de combate y sigilo en Unity2D.
+- Proyecto 3: Nuevo sidescroller en Unity2D.
+
 # 🎮 Proyecto 1: Prototipo de IA Básica y Persecución en Unity3D.
 
 ## 📜 Descripción:
