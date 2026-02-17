@@ -24,7 +24,7 @@ El *Finite State Machine* es una de las tecnologías mas recurrentes en el mundo
 
 ## 🎥 Gameplay
 
-[https://www.youtube.com/watch?v=gsMW9WbJTnU]
+[No Disponible por el momento]
 
 ## 🛠️ Tecnologías
 
@@ -49,10 +49,11 @@ El jugador puede atacarlos disparandoles, atacandoles cuerpo a cuerpo o atacando
 - Sistema de escondites
 - Sistema de combate sencillo y disparos
 - Gestion de salud y munición
+- Diseño y creacion básico de nivel con tilemaps
 
 ## 🎥 Gameplay
 
-[https://www.youtube.com/watch?v=gsMW9WbJTnU]
+[No Disponible por el momento]
 
 ## 🛠️ Tecnologías
 
