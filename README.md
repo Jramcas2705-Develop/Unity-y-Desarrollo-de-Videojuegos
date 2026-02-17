@@ -26,3 +26,5 @@ El *Finite State Machine* es una de las tecnologías mas recurrentes en el mundo
 - NavMesh
 - Raycast
 - FSM ()
+
+# 🎮 Proyecto 2: Juego 2D Sidescroller de Zombies con patrullaje y mecánicas de combate y sigilo Unity3D.
