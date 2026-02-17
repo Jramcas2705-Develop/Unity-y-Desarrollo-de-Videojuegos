@@ -58,7 +58,6 @@ El jugador puede atacarlos disparandoles, atacandoles cuerpo a cuerpo o atacando
 
 ## 🛠️ Tecnologías
 
-- NavMesh
 - Raycast
 - URP --> Shader(Universal Render Pipeline)
 
@@ -77,7 +76,6 @@ Este proyecto es nuevo y pretende al menos ser una mejora técnica del anterior,
 
 ## 🛠️ Tecnologías
 
-- NavMesh
 - Raycast
 - URP --> Shader(Universal Render Pipeline)
 - Tiled
