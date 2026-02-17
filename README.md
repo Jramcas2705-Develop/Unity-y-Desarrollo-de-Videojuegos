@@ -6,6 +6,7 @@ Este es un repositorio dedicado a los proyectos de Unity y desarrollo de videoju
 - Unity
 - C#
 - GitHub Copilot
+- Tiled (Editor de niveles flexible)
 
 # 🎮 Proyecto 1: Prototipo de IA Básica y Persecución en Unity3D.
 
@@ -60,3 +61,23 @@ El jugador puede atacarlos disparandoles, atacandoles cuerpo a cuerpo o atacando
 - NavMesh
 - Raycast
 - URP --> Shader(Universal Render Pipeline)
+
+# 🎮 Proyecto 3: Nuevo sidescroller en Unity2D.
+
+## 📜 Descripción:
+Este proyecto es nuevo y pretende al menos ser una mejora técnica del anterior, mejorando la organización tanto del proyecto como de los scripts y mejorando el *game feel* mediante técnicas de *game juice* (coyote time, input buffer, etc.)
+
+## 🚀 Características
+
+- Aun no hay características importantes
+
+## 🎥 Gameplay
+
+[No disponible por el momento]
+
+## 🛠️ Tecnologías
+
+- NavMesh
+- Raycast
+- URP --> Shader(Universal Render Pipeline)
+- Tiled
