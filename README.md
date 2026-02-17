@@ -14,7 +14,7 @@ Este es un repositorio dedicado a mis proyectos de Unity y desarrollo de videoju
 - Proyecto 2: Sidescroller de Zombies con patrullaje y mecánicas de combate y sigilo en Unity2D.
 - Proyecto 3: Nuevo sidescroller en Unity2D.
 
-# 🎮 Proyecto 1: Prototipo de IA Básica y Persecución en Unity3D.
+# 🎮 Proyecto 1: Prototipo de IA Básica y Persecución en Unity3D 🧠.
 
 ## 📜 Descripción:
 Este proyecto es una prueba técnica y básica que mezca las tecnologías de NavMesh (tecnología de navegación definida), con la tecnología de detección de Raycast y una maquina de estados finito en el objeto FSM.
