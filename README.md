@@ -88,8 +88,11 @@ Este proyecto es nuevo y pretende al menos ser una mejora tanto interna como jug
 
 # 🧠 Aprendizajes Finales Claves
 
-- Implementación de IA basada en FSM.
+- Implementación de IA básica basada en FSM.
+- Implementación de mecanicas.
 - Uso eficiente de Raycast para detección.
 - Comunicación entre clases y eventos.
 - Mejora del game feel con técnicas de input buffer y coyote time (entre otros).
-- Organización de scripts mediante programación modular (Scripts de movimiento básico, ataque, inventario, etc.)
+- Organización de scripts mediante programación modular (Scripts de movimiento básico, ataque, inventario, etc.).
+- Creación y uso de tiles para creacion de niveles.
+- Diseño de niveles y documentos de diseño.
