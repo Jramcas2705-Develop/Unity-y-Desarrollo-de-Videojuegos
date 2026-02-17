@@ -1,6 +1,12 @@
 # Unity y Desarrollo de Videojuegos
 Este es un repositorio dedicado a los proyectos de Unity y desarrollo de videojuegos
 
+## 🛠️ Tecnologías
+
+- Unity
+- C#
+- GitHub Copilot
+
 # 🎮 Proyecto 1: Prototipo de IA Básica y Persecución en Unity3D.
 
 Este proyecto es una prueba técnica y básica que mezca las tecnologías de NavMesh (tecnología de navegación definida), con la tecnología de detección de Raycast y una maquina de estados finito en el objeto FSM.
