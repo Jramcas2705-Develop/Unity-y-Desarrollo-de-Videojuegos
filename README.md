@@ -92,6 +92,7 @@ Este proyecto es nuevo y pretende al menos ser una mejora tanto interna como jug
 - Implementación de mecanicas.
 - Uso eficiente de Raycast para detección.
 - Uso de complementos de colisión, física y gravedad.
+- Trabajo con materiales e iluminación con shaders.
 - Comunicación entre clases y eventos.
 - Mejora del game feel con técnicas de input buffer y coyote time (entre otros).
 - Organización de scripts mediante programación modular (Scripts de movimiento básico, ataque, inventario, etc.).
