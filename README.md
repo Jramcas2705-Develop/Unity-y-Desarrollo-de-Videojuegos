@@ -118,7 +118,7 @@ https://user-images.githubusercontent.com/11830789/231013254-14e5503e-db22-481a-
 
 ## 📺 Video Tutorial
 
-[![Como Crear un Proyecto con Spring Framework 6](https://img.youtube.com/vi/kur3Hj57bBY/0.jpg)](https://youtu.be/kur3Hj57bBY?feature=shared)
+[![https://youtu.be/kur3Hj57bBY?feature=shared](https://img.youtube.com/vi/kur3Hj57bBY/0.jpg)](https://youtu.be/kur3Hj57bBY?feature=shared)
 
 🔗 Enlace directo al video:  
 https://youtu.be/kur3Hj57bBY?feature=shared
