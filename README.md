@@ -101,7 +101,9 @@ El objetivo es realizar lo que se conoce como un *Vertical Slice* que consiste e
 - Organización de scripts mediante programación modular (Scripts de movimiento básico, ataque, inventario, etc.).
 - Creación y uso de tiles para creacion de niveles.
 - Diseño de niveles y documentos de diseño.
-- 
+
+
+
 # Como Crear un Proyecto con Spring Framework 6 
 Tutorial: https://youtu.be/NarBox1LkYc 
 
@@ -112,3 +114,11 @@ Tutorial: https://youtu.be/NarBox1LkYc
 
 https://user-images.githubusercontent.com/11830789/231013254-14e5503e-db22-481a-bb44-e79b787cb550.mp4
 
+# 🚀 Como Crear un Proyecto con Spring Framework 6  
+
+## 📺 Video Tutorial
+
+[![Como Crear un Proyecto con Spring Framework 6](https://img.youtube.com/vi/kur3Hj57bBY/0.jpg)](https://youtu.be/kur3Hj57bBY?feature=shared)
+
+🔗 Enlace directo al video:  
+https://youtu.be/kur3Hj57bBY?feature=shared
