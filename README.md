@@ -60,7 +60,7 @@ El jugador puede atacarlos disparandoles, atacandoles cuerpo a cuerpo o atacando
 
 ## 🎥 Gameplay
 
-[No disponible por el momento]
+[https://youtu.be/kur3Hj57bBY?feature=shared]
 
 ## 🛠️ Tecnologías
 
