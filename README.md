@@ -150,7 +150,7 @@ La empresa gracias a su tecnología, logró restaurar parcialmente el planeta vi
 El personaje del jugador es alguien que fue sometido a criogenización en una cápsula altamente protegida dentro de las naves desde poco antes del despegue de estas con el cometido de hacerle reunir las memorias humanas y brindarles un homenaje digno cuando se extingan. Antes del impacto la cápsula fue expulsada y aterrizó de manera segura en la lejanía, al detectar que la vida se había extinguido decidió que era el momento de devolver a quien aguardaban, nuestro triste protagonista no tiene más remedio que reunir toda la historia en el “Archivo de la Humanidad”, todas las memorias, historia, culturas y conocimientos de la humanidad y enterrarlo a modo de homenaje y funeral digno a las personas.
 El archivo de la humanidad está esparcido entre los restos de las naves, son todos aquellos utensilios de los humanos que revelan una breve parte de su historia, al final el jugador deberá averiguar la localización de otra de las naves. El objetivo final es reunir la mayor cantidad de objetos cotidianos posibles y encontrar la ubicación del resto de naves.
 
-Frases de IA:
+## Frases de IA:
 
 “Si alguien queda vivo… encuentra el Archivo.
 La humanidad no debe desaparecer del todo.”
@@ -160,7 +160,7 @@ La humanidad no debe desaparecer del todo.”
 “Ecos es una experiencia narrativa en primera persona donde el jugador explora los restos de naves colosales varadas en un planeta oceánico.
 Su objetivo es recuperar el Registro Final de la Humanidad y enterrarlo para preservar su legado tras la extinción.”
 
-Recursos:
+## Recursos:
 
 Low rumbles (vibración grave constante)
 https://www.youtube.com/@dalesnale 
