@@ -134,8 +134,11 @@ El jugador no puede defenderse, debe resaltarse la soledad y vulnerabilidad ante
 ## Contexto:
 
 "En un futuro lejano, Preservation Technologies – gigante de avances por un siglo – vio la Tierra destruida por calentamiento, guerras y manipulación de redes/contenido rápido. Con gobiernos, decidieron sacrificar mitad humanidad para 'salvar' el planeta: engañaron a miles de millones para subir a naves eternas con reactores infinitos, prometiendo un nuevo hogar.
+
 Saboteadas, se estrellaron en un planeta desértico-oceánico lejano. Supervivientes aguantaron milenios con sistemas infinitos, pero meteorología extrema y reactores dañados en impacto degradaron todo – al final, extinguidos.
+
 Preservation restauró parcialmente Tierra, pero heridas profundas + arrogancia llevaron a su extinción.
+
 El jugador, criogenizado como 'gran enterrador', despierta para recolectar el 'Archivo de la Humanidad' – objetos cotidianos esparcidos revelando memorias – y enterrarlo como homenaje digno, averiguando otras naves."
 
 El archivo de la humanidad está esparcido entre los restos de las naves, son todos aquellos utensilios de los humanos que revelan una breve parte de su historia, al final el jugador deberá averiguar la localización de otra de las naves. El objetivo final es reunir la mayor cantidad de objetos cotidianos posibles y encontrar la ubicación del resto de naves.
