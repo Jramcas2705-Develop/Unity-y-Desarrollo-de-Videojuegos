@@ -1,5 +1,5 @@
 # Desarrollo y diseño de Videojuegos en Unity
-Este es un repositorio dedicado a mis proyectos de Unity y desarrollo de videojuegos, los proyectos están ordenados por orden de complejidad:
+Este es un repositorio dedicado a mis proyectos de Unity y desarrollo de videojuegos, los proyectos están ordenados por orden de complejidad y evolución técnica:
 
 ## 🛠️ Principales Programas y Herramientas
 
