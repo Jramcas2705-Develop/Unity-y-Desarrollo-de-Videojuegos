@@ -79,7 +79,8 @@ El objetivo es realizar lo que se conoce como un *Vertical Slice* que consiste e
 
 ## 🚀 Características
 
-- Aun no hay características destacables
+- Triggers de daño y efectos ambientales.
+- Elementos de HUD, botones, notificaciones, salud, etc.
 
 ## 🎥 Gameplay
 
@@ -90,6 +91,7 @@ El objetivo es realizar lo que se conoce como un *Vertical Slice* que consiste e
 ## Idea general de Juego:
 Nombre: Los Ecos de la Humanidad
 
+## Idea original:
 *Pienso en antiguas naves espaciales inmensas e imponentes en ruinas, medio inundadas en una vasta playa, con sonidos fuertes de viento, algún que otro eco y un tiempo muy nublado o casi lluvioso con cierta atmósfera de terror, naves crujiendo que podrían desguazar en cualquier momento.* - No modificar -
 
 Tono grisáceo y oscuro.
