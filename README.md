@@ -175,6 +175,6 @@ https://www.youtube.com/@dalesnale
 - Trabajo con materiales e iluminación con shaders.
 - Comunicación entre clases y eventos.
 - Mejora del game feel con técnicas de input buffer y coyote time (entre otros).
-- Organización de workflow scripts mediante programación modular (Scripts de movimiento básico, ataque, inventario, etc.).
+- Organización de workflow y scripts mediante programación modular (Scripts de movimiento básico, ataque, inventario, etc.).
 - Creación y uso de tiles para creacion de niveles.
 - Diseño de niveles y documentos de diseño.
