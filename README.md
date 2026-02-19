@@ -166,6 +166,8 @@ https://www.youtube.com/@dalesnale
 
 # 🧠 Aprendizajes Finales Claves
 
+- Creación de elementos de HUD.
+- Uso de Triggers y efectos ambientales.
 - Implementación de IA básica basada en FSM.
 - Implementación de mecanicas.
 - Uso eficiente de Raycast para detección.
