@@ -86,7 +86,7 @@ El objetivo es realizar lo que se conoce como un *Vertical Slice* que consiste e
 
 [No disponible por el momento]
 
-# GDD: Completo: Los Ecos de la Humanidad (Prototype Vertical Slice 2D).
+# GDD Completo: Los Ecos de la Humanidad (Prototype Vertical Slice 2D).
 
 ## Idea general de Juego:
 Nombre: Los Ecos de la Humanidad
