@@ -85,11 +85,9 @@ El objetivo es realizar lo que se conoce como un *Vertical Slice* que consiste e
 
 [No disponible por el momento]
 
-## GDD: Completo
+## GDD: Completo: Los Ecos de la Humanidad (Prototype Vertical Slice 2D).
 
-GDD: Los Ecos de la Humanidad (Prototype Vertical Slice 2D).
-
-Idea general de Juego:
+#Idea general de Juego:
 Nombre: Los Ecos de la Humanidad
 
 *Pienso en antiguas naves espaciales inmensas e imponentes en ruinas, medio inundadas en una vasta playa, con sonidos fuertes de viento, algún que otro eco y un tiempo muy nublado o casi lluvioso con cierta atmósfera de terror, naves crujiendo que podrían desguazar en cualquier momento.* - No modificar -
@@ -102,16 +100,16 @@ Transmite: Curiosidad, Tragedia, Drama, Misterio, Opresión.
 
 *De todo esto se intentará adaptar solo lo que sea posible*
 
-Mecánicas y jugabilidad:
+#Mecánicas y jugabilidad:
 
 Vertical Slice 2D Sidescroller
 
-Protector de Oxígeno, La nave contará con zonas no habitables, el jugador tendrá que rellenar su medidor de protección para pasar y continuar su aventura.
-Plataformas y obstáculos sencillo
-Escaleras.
-Droides
+- Protector de Oxígeno, La nave contará con zonas no habitables, el jugador tendrá que rellenar su medidor de protección para pasar y continuar su aventura.
+- Plataformas y obstáculos sencillo
+- Escaleras.
+- Droides patrullas de seguridad.
 
-Diseño de Nivel:
+#Diseño de Nivel:
 
 Duración 10-15 mins, máximo 20.
 
@@ -131,7 +129,9 @@ Las zonas con droides se basarán en el sistema de sigilo probado de mi anterior
 
 El jugador no puede defenderse, debe resaltarse la soledad y vulnerabilidad ante el entorno
 
-Contexto (Sólo de Base):
+#Contexto:
+
+El contexto es extenso pensado para cubrir futuros proyectos, en el vertical slice solo se podra ver la cima del ice-berg, en futuros proyectos más grandes se podrá conocer más en el propio juego.
 
 En un futuro muy lejano, la tecnología avanzó significativamente pero el calentamiento global sumado a las constantes guerras hicieron el planeta completamente inhabitable, las ciudades se llenaron de basura y temperaturas extremas, dando un ambiente post apocalíptico, a la par la manipulación se volvió extrema por culpa del desarrollo de las redes sociales y el contenido rápido, la necesidad de encontrar un nuevo hogar era protagonista en todos lados.
 
