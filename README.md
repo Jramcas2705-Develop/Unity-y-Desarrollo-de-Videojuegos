@@ -169,7 +169,9 @@ https://www.youtube.com/@dalesnale
 - Creación de elementos de HUD.
 - Uso de Triggers y efectos ambientales.
 - Implementación de IA básica basada en FSM.
-- Implementación de mecanicas.
+- Sistema de estados desacoplado usando patrón State.
+- Comunicación entre enemigos mediante eventos C#.
+- Sistema de detección optimizado usando capas y máscara de colisión.
 - Uso eficiente de Raycast para detección.
 - Uso de complementos de colisión, física y gravedad.
 - Trabajo con materiales e iluminación con shaders.
