@@ -73,9 +73,9 @@ https://youtu.be/kur3Hj57bBY?feature=shared
 # 🎮 Proyecto 3: Los Ecos de la Humanidad (Prototype Vertical Slice 2D Sidescroller).
 
 ## 📜 Descripción:
-Este proyecto es muy reciente y todavía esta en primera fase de diseño y planificación, pero pretende al menos ser una mejora tanto interna como jugablemente del anterior, mejorando la organización tanto del proyecto como de los scripts y mejorando el *game feel* mediante técnicas de *game juice* (coyote time, input buffer, etc.), además realizaré un GDD (game design document) y contaré con el programa *tiled* para ayudarme realizar un mejor diseño de nivel.
+Este proyecto es reciente y todavía esta en fase temprana de desarrollo, pero será una mejora tanto técnica como jugablemente del anterior, mejoras en la organización tanto del proyecto como de los scripts y *game feel* mediante técnicas de *game juice* (coyote time, input buffer, etc.), además realizaré un GDD (game design document) y contaré con el programa *tiled* para ayudarme realizar un mejor diseño de nivel.
 
-El objetivo es realizar lo que se conoce como un *Vertical Slice* que consiste en un nivel o juego pequeño muy pulido y divertido en el que pueda aprender más cosas sobre el desarrollo y diseño.
+El objetivo es realizar lo que se conoce como un *Vertical Slice* que consiste en un nivel o juego pequeño muy pulido en el que pueda aprender más cosas sobre el desarrollo y diseño que pueda aplicar en futuros proyectos.
 
 ## 🚀 Características
 
