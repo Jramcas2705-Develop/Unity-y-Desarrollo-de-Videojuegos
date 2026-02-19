@@ -87,7 +87,7 @@ El objetivo es realizar lo que se conoce como un *Vertical Slice* que consiste e
 
 ## GDD: Completo: Los Ecos de la Humanidad (Prototype Vertical Slice 2D).
 
-#Idea general de Juego:
+# Idea general de Juego:
 Nombre: Los Ecos de la Humanidad
 
 *Pienso en antiguas naves espaciales inmensas e imponentes en ruinas, medio inundadas en una vasta playa, con sonidos fuertes de viento, algún que otro eco y un tiempo muy nublado o casi lluvioso con cierta atmósfera de terror, naves crujiendo que podrían desguazar en cualquier momento.* - No modificar -
@@ -100,7 +100,7 @@ Transmite: Curiosidad, Tragedia, Drama, Misterio, Opresión.
 
 *De todo esto se intentará adaptar solo lo que sea posible*
 
-#Mecánicas y jugabilidad:
+# Mecánicas y jugabilidad:
 
 Vertical Slice 2D Sidescroller
 
@@ -109,7 +109,7 @@ Vertical Slice 2D Sidescroller
 - Escaleras.
 - Droides patrullas de seguridad.
 
-#Diseño de Nivel:
+# Diseño de Nivel:
 
 Duración 10-15 mins, máximo 20.
 
@@ -129,7 +129,7 @@ Las zonas con droides se basarán en el sistema de sigilo probado de mi anterior
 
 El jugador no puede defenderse, debe resaltarse la soledad y vulnerabilidad ante el entorno
 
-#Contexto:
+# Contexto:
 
 El contexto es extenso pensado para cubrir futuros proyectos, en el vertical slice solo se podra ver la cima del ice-berg, en futuros proyectos más grandes se podrá conocer más en el propio juego.
 
@@ -164,9 +164,6 @@ Recursos:
 
 Low rumbles (vibración grave constante)
 https://www.youtube.com/@dalesnale 
-
-
-
 
 ## 🛠️ Tecnologías
 
