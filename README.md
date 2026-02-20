@@ -12,7 +12,7 @@ Este es un repositorio dedicado a mis proyectos de Unity y desarrollo de videoju
 
 - Proyecto 1: Prototipo de IA Básica y Persecución en Unity3D.
 - Proyecto 2: Sidescroller de Zombies con patrullaje y mecánicas de combate y sigilo en Unity2D.
-- Proyecto 3: Nuevo sidescroller en Unity2D.
+- Proyecto 3: Los Ecos de la Humanidad (Prototype Vertical Slice 2D Sidescroller).
 
 # 🎮 Proyecto 1: Prototipo de IA Básica y Persecución en Unity3D 🧠.
 
