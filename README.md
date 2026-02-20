@@ -80,7 +80,7 @@ El objetivo es realizar lo que se conoce como un *Vertical Slice* que consiste e
 ## 🚀 Características
 
 - Triggers de daño y efectos ambientales.
-- Elementos de HUD, botones, notificaciones, salud, etc.
+- Elementos y animaciónes de HUD, botones, notificaciones, salud, etc.
 - Efecto Parallax, movimiento realista de escenario y profundidad.
 
 ## 🎥 Gameplay
