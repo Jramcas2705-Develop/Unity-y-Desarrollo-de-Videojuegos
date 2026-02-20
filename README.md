@@ -81,7 +81,7 @@ El objetivo es realizar lo que se conoce como un *Vertical Slice* que consiste e
 
 - Triggers de daño y efectos ambientales.
 - Elementos de HUD, botones, notificaciones, salud, etc.
-- Efecto Paralax, movimiento realista de escenario y profundidad.
+- Efecto Parallax, movimiento realista de escenario y profundidad.
 
 ## 🎥 Gameplay
 
