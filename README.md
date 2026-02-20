@@ -81,6 +81,7 @@ El objetivo es realizar lo que se conoce como un *Vertical Slice* que consiste e
 
 - Triggers de daño y efectos ambientales.
 - Elementos de HUD, botones, notificaciones, salud, etc.
+- Efecto Paralax, movimiento realista de escenario y profundidad.
 
 ## 🎥 Gameplay
 
@@ -178,5 +179,5 @@ https://www.youtube.com/@dalesnale
 - Comunicación entre clases y eventos.
 - Mejora del game feel con técnicas de input buffer y coyote time (entre otros).
 - Organización de workflow y scripts mediante programación modular (Scripts de movimiento básico, ataque, inventario, etc.).
-- Creación y uso de tiles para creacion de niveles.
+- Creación y uso de tiles y recursos para creacion de niveles.
 - Diseño de niveles y documentos de diseño.
