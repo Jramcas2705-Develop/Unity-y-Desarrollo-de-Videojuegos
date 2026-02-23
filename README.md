@@ -89,7 +89,7 @@ El objetivo es realizar lo que se conoce como un *Vertical Slice* que consiste e
 
 # GDD: Los Ecos de la Humanidad (Prototype Vertical Slice 2D).
 
-##Idea general de Juego:
+## Idea general de Juego:
 Nombre: Los Ecos de la Humanidad
 
 Idea original:
@@ -103,7 +103,7 @@ Transmite: Curiosidad, Tragedia, Drama, Misterio, Opresión.
 
 *De todo esto se intentará adaptar solo lo que sea posible*
 
-##Mecánicas y jugabilidad:
+## Mecánicas y jugabilidad:
 
 Vertical Slice 2D Sidescroller
 
@@ -112,7 +112,7 @@ Plataformas y obstáculos sencillo
 Escaleras.
 Droides patrullas de seguridad.
 
-##Diseño de Nivel:
+## Diseño de Nivel:
 
 Duración 10-15 mins, máximo 20.
 
@@ -134,7 +134,7 @@ Las zonas con droides se basarán en el sistema de sigilo probado de mi anterior
 
 El jugador no puede defenderse, debe resaltarse la soledad y vulnerabilidad ante el entorno
 
-##Contexto (Sólo de Base):
+## Contexto (Sólo de Base):
 "En un futuro lejano, Preservation Technologies – gigante de avances por un siglo – vio la Tierra destruida por calentamiento, guerras y manipulación de redes/contenido rápido. Con gobiernos, decidieron sacrificar mitad humanidad para 'salvar' el planeta: engañaron a miles de millones para subir a naves eternas con reactores infinitos, prometiendo un nuevo hogar.
 Saboteadas, se estrellaron en un planeta desértico-oceánico lejano. Supervivientes aguantaron milenios con sistemas infinitos, pero meteorología extrema y reactores dañados en impacto degradaron todo – al final, extinguidos.
 Preservation restauró parcialmente Tierra, pero heridas profundas + arrogancia llevaron a su extinción.
