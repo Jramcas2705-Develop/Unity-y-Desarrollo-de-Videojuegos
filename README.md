@@ -87,12 +87,12 @@ El objetivo es realizar lo que se conoce como un *Vertical Slice* que consiste e
 
 [No disponible por el momento]
 
-# GDD Completo: Los Ecos de la Humanidad (Prototype Vertical Slice 2D).
+# GDD: Los Ecos de la Humanidad (Prototype Vertical Slice 2D).
 
-## Idea general de Juego:
+##Idea general de Juego:
 Nombre: Los Ecos de la Humanidad
 
-## Idea original:
+Idea original:
 *Pienso en antiguas naves espaciales inmensas e imponentes en ruinas, medio inundadas en una vasta playa, con sonidos fuertes de viento, algún que otro eco y un tiempo muy nublado o casi lluvioso con cierta atmósfera de terror, naves crujiendo que podrían desguazar en cualquier momento.* - No modificar -
 
 Tono grisáceo y oscuro.
@@ -103,16 +103,16 @@ Transmite: Curiosidad, Tragedia, Drama, Misterio, Opresión.
 
 *De todo esto se intentará adaptar solo lo que sea posible*
 
-## Mecánicas y jugabilidad:
+##Mecánicas y jugabilidad:
 
 Vertical Slice 2D Sidescroller
 
-- Protector de Oxígeno, La nave contará con zonas no habitables, el jugador tendrá que rellenar su medidor de protección para pasar y continuar su aventura.
-- Plataformas y obstáculos sencillo
-- Escaleras.
-- Droides patrullas de seguridad.
+Protector de Oxígeno, La nave contará con zonas no habitables, el jugador tendrá que rellenar su medidor de protección para pasar y continuar su aventura.
+Plataformas y obstáculos sencillo
+Escaleras.
+Droides patrullas de seguridad.
 
-## Diseño de Nivel:
+##Diseño de Nivel:
 
 Duración 10-15 mins, máximo 20.
 
@@ -120,31 +120,28 @@ El juego debe ser más opresivo que difícil, que haya que detenerse un poco per
 
 Para mantener la estética, es importante que en el sprite del jugador no esté armado ni cuente con ninguna defensa.
 
-El objetivo del jugador en el Vertical Slice es salir de la cápsula, el jugador aparecerá y a partir del spawn, tras un pequeño plataformeo conseguirá la máscara de oxígeno para pasar por una zona antes imposible en donde encontrará el primer eco del archivo (Explicado en el contexto), después tendrá que evitar a unos droides de seguridad y encontrar un botón para abrir la segunda puerta, en la última puerta se mezclarán unas zonas de peligro con un par de droides y un interruptor que abra la puerta y a la vez muestre el fin del pasillo para terminar, tras esto el vertical slice terminará con la posibilidad de hacer una pequeña cinemática silenciosa en la que la cámara se aleje para admirar las ruinas en la playa y acabar ahí.
+El objetivo del jugador en el Vertical Slice es salir de la cápsula, el jugador aparecerá y a partir del spawn, tras un pequeño plataformeo conseguirá la máscara de oxígeno para pasar por una zona antes imposible en donde encontrará el primer eco del archivo, después tendrá que evitar a unos droides de seguridad y encontrar un botón para abrir la segunda puerta, mientras realiza esto ocurrirá un evento: las luces empezarán a parpadear y el escenario se preparará para un fuerte estruendo que hará a los droides detenerse y hará temblar la cámara, en la última puerta se mezclarán unas zonas de peligro con un par de droides y un interruptor que abra la puerta y a la vez muestre el fin del pasillo para terminar, tras esto el vertical slice terminará con la posibilidad de hacer una pequeña cinemática silenciosa en la que la cámara se aleje para admirar las ruinas en la playa y acabar ahí.
 
-Se podrán ubicar ecos (coleccionables) del archivo de la humanidad en ubicaciones escondidas a lo largo del juego, al acabar el juego se mostrará la puntuación o porcentaje obtenido, cuando el jugador se acerque a uno de estos coleccionable será guiado a estos por el sonido de ecos humanos.
+Se podrán ubicar ecos (coleccionables) del archivo de la humanidad en ubicaciones escondidas a lo largo del juego, al acabar el juego se mostrará la puntuación o porcentaje obtenido, cuando el jugador se acerque a uno de estos coleccionable será guiado a estos por el sonido de ecos humanos y contarán una breve historia en un menú.
+
+La estética de las naves serán blanco y naranja, la estética de preservation technologies
 
 Ecos recuperados: (número de ecos coleccionados);
 
- Los droides serán unos enemigos con los que el jugador deberá pasar sigilosamente escondiéndose y decidiendo cuándo avanzar entre obstáculos, si es detectado será perseguido y atacado.
+Los droides serán unos enemigos con los que el jugador deberá pasar sigilosamente escondiéndose y decidiendo cuándo avanzar entre obstáculos, si es detectado será perseguido y atacado.
 
 Las zonas con droides se basarán en el sistema de sigilo probado de mi anterior proyecto “Your Last Breath” donde el jugador se podía esconder y los zombis patrullaban de manera natural y aleatoria.
 
 El jugador no puede defenderse, debe resaltarse la soledad y vulnerabilidad ante el entorno
 
-## Contexto:
-
+##Contexto (Sólo de Base):
 "En un futuro lejano, Preservation Technologies – gigante de avances por un siglo – vio la Tierra destruida por calentamiento, guerras y manipulación de redes/contenido rápido. Con gobiernos, decidieron sacrificar mitad humanidad para 'salvar' el planeta: engañaron a miles de millones para subir a naves eternas con reactores infinitos, prometiendo un nuevo hogar.
-
 Saboteadas, se estrellaron en un planeta desértico-oceánico lejano. Supervivientes aguantaron milenios con sistemas infinitos, pero meteorología extrema y reactores dañados en impacto degradaron todo – al final, extinguidos.
-
 Preservation restauró parcialmente Tierra, pero heridas profundas + arrogancia llevaron a su extinción.
+El jugador, criogenizado es el 'gran enterrador', despierta para recolectar el 'Archivo de la Humanidad' – objetos cotidianos esparcidos revelando memorias – y enterrarlo como homenaje digno, averiguando otras naves."
+El archivo de la humanidad está esparcido entre los restos de las grandes naves, son todos aquellos utensilios de los humanos que revelan una breve parte de su historia, al final el jugador deberá averiguar la localización de otra de las naves. El objetivo final es reunir la mayor cantidad de objetos cotidianos posibles y encontrar la ubicación del resto de naves.
 
-El jugador, criogenizado como 'gran enterrador', despierta para recolectar el 'Archivo de la Humanidad' – objetos cotidianos esparcidos revelando memorias – y enterrarlo como homenaje digno, averiguando otras naves."
-
-El archivo de la humanidad está esparcido entre los restos de las naves, son todos aquellos utensilios de los humanos que revelan una breve parte de su historia, al final el jugador deberá averiguar la localización de otra de las naves. El objetivo final es reunir la mayor cantidad de objetos cotidianos posibles y encontrar la ubicación del resto de naves.
-
-## Frases de IA:
+Frases de IA:
 
 “Si alguien queda vivo… encuentra el Archivo.
 La humanidad no debe desaparecer del todo.”
@@ -154,10 +151,24 @@ La humanidad no debe desaparecer del todo.”
 “Ecos es una experiencia narrativa en primera persona donde el jugador explora los restos de naves colosales varadas en un planeta oceánico.
 Su objetivo es recuperar el Registro Final de la Humanidad y enterrarlo para preservar su legado tras la extinción.”
 
-## Recursos:
+Recursos:
+
+Ecos, sonido de reloj y niños
+https://freesound.org/people/DouglasJewett/sounds/178753/ 
 
 Low rumbles (vibración grave constante)
 https://www.youtube.com/@dalesnale 
+
+Trueno
+https://freesound.org/people/AdrianoAnjos/sounds/540365/
+
+Viento
+https://freesound.org/people/felix.blume/sounds/216892/ 
+
+
+Imágenes:
+
+Evolución del apartado visual.
 
 ## 🛠️ Tecnologías
 
