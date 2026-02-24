@@ -31,7 +31,7 @@ El *Finite State Machine* es una de las tecnologías mas recurrentes en el mundo
 
 ## 🎥 Gameplay
 
-[![Prototipo de IA Básica y Persecución en Unity3D 🧠](https://img.youtu.com/vi/FiqMQlusgic/0.jpg)](https://youtu.be/FiqMQlusgic)
+[![Prototipo de IA Básica y Persecución en Unity3D 🧠](https://img.youtu.com/vi/FiqMQlusgic/1.jpg)](https://youtu.be/FiqMQlusgic)
 
 🔗 Enlace directo al video:  
 https://youtu.be/FiqMQlusgic
