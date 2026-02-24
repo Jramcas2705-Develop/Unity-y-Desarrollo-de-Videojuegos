@@ -60,7 +60,7 @@ El jugador puede atacarlos disparándoles, atacandoles cuerpo a cuerpo o atacand
 
 ## 🎥 Gameplay
 
-[![Como Crear un Proyecto con Spring Framework 6](https://img.youtube.com/vi/kur3Hj57bBY/0.jpg)](https://youtu.be/kur3Hj57bBY?feature=shared)
+[![Your Last Breath](https://img.youtube.com/vi/kur3Hj57bBY/0.jpg)](https://youtu.be/kur3Hj57bBY?feature=shared)
 
 🔗 Enlace directo al video:  
 https://youtu.be/kur3Hj57bBY?feature=shared
