@@ -31,7 +31,7 @@ El *Finite State Machine* es una de las tecnologías mas recurrentes en el mundo
 
 ## 🎥 Gameplay
 
-[No disponible por el momento]
+[[No disponible por el momento]](https://youtu.be/FiqMQlusgic)
 
 ## 🛠️ Tecnologías
 
