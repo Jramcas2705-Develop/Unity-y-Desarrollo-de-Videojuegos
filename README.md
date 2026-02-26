@@ -1,6 +1,6 @@
-# 🎮 Desarrollo y Diseño de Videojuegos en Unity – Portfolio de José
+# 🎮 Desarrollo y Diseño de Videojuegos en Unity
 
-¡Hola! Soy **José**, desarrollador y diseñador de videojuegos en formación, actualmente cursando **Grado Superior en Desarrollo de Aplicaciones Web**.  
+Soy **José Ángel**, desarrollador y diseñador de videojuegos en formación, actualmente cursando **Grado Superior en Desarrollo de Aplicaciones Web**.  
 He trabajado de forma **independiente en todos los proyectos**: programación, diseño de niveles, creación de assets, animaciones básicas, HUD, sonido y documentación.  
 
 Mi enfoque principal es **Unity 2D**, **diseño de niveles** y **narrativa ambiental**, donde los escenarios cuentan la historia al jugador.
@@ -64,7 +64,7 @@ Juego ambientado en una ciudad en ruinas. El jugador debe avanzar usando sigilo 
 **Tecnologías:** Unity 2D, C#, URP, Raycast, Tiled, Aseprite  
 
 **Descripción:**  
-Juego con enfoque en **narrativa ambiental y exploración**. El jugador se mueve por naves espaciales en ruinas, recolectando “ecos” de la humanidad y resolviendo puzzles de sigilo. El objetivo es transmitir **curiosidad, tragedia, drama y misterio** sin recurrir a combate directo.
+Juego con enfoque en **narrativa ambiental y exploración**. El jugador se mueve por naves espaciales en ruinas, recolectando “ecos” de la humanidad y resolviendo puzzles de sigilo. El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
 
 **Características clave:**
 
