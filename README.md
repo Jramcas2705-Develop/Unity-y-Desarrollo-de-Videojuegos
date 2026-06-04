@@ -36,6 +36,7 @@ Prototipo de IA donde un enemigo patrulla una ruta y persigue al jugador al ser 
 ---
 
 ## Proyecto 2 – Your Last Breath (Sidescroller de zombies)
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/76d5fd9c-b997-42ac-b422-1654f4c5f5b3" />
 
 **Gameplay:** [Ver video](https://youtu.be/kur3Hj57bBY?feature=shared)
 
