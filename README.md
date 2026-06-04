@@ -56,8 +56,26 @@ Juego ambientado en una ciudad en ruinas. El jugador debe avanzar usando sigilo 
 **Gameplay:** [Ver video](https://youtu.be/kur3Hj57bBY?feature=shared)
 
 ---
+## Proyecto 3 – Los Ecos de la Humanidad (Vertical Slice 2D Sidescroller)(Proyecto Pausado)
 
-## Proyecto 3 – Los Ecos de la Humanidad (Vertical Slice 2D Sidescroller)
+**Tipo:** Vertical Slice 2D Sidescroller  
+**Rol:** Desarrollo completo (programación, diseño de niveles, assets, animaciones, HUD, triggers y efectos ambientales)  
+**Tecnologías:** Unity 2D, C#, URP, Raycast, Tiled, Aseprite  
+
+**Descripción:**  
+Juego **en desarrollo** con enfoque en **narrativa ambiental y exploración**. El jugador se mueve por naves espaciales en ruinas, recolectando recuerdos de la humanidad. El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
+
+**Características clave:**
+
+- Triggers de daño y efectos ambientales  
+- Elementos de HUD: salud, notificaciones, botones  
+- Efecto Parallax para profundidad y atmósfera  
+- Diseño de nivel enfocado en narrativa ambiental  
+- Vertical Slice de 10–15 minutos jugables  
+
+<img width="1584" height="711" alt="image" src="https://github.com/user-attachments/assets/dad8af99-5428-43af-89e2-6b8b163375b7" />
+---
+## Proyecto 4 (En pausa) – Los Ecos de la Humanidad (Vertical Slice 2D Sidescroller)
 
 **Tipo:** Vertical Slice 2D Sidescroller  
 **Rol:** Desarrollo completo (programación, diseño de niveles, assets, animaciones, HUD, triggers y efectos ambientales)  
@@ -77,7 +95,6 @@ Juego **en desarrollo** con enfoque en **narrativa ambiental y exploración**. E
 **Gameplay:** *(video próximamente)*  
 **GDD:** “Los Ecos de la Humanidad – Vertical Slice” *(disponible en el repo)*
 
-<img width="1584" height="711" alt="image" src="https://github.com/user-attachments/assets/dad8af99-5428-43af-89e2-6b8b163375b7" />
 ---
 
 ## 🛠️ Tecnologías y herramientas
