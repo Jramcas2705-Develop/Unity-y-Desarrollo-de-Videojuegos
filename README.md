@@ -75,6 +75,7 @@ Juego **en desarrollo** con enfoque en **narrativa ambiental y exploración**. E
 
 <img width="1584" height="711" alt="image" src="https://github.com/user-attachments/assets/dad8af99-5428-43af-89e2-6b8b163375b7" />
 ---
+
 ## Proyecto 4 (En pausa) – Los Ecos de la Humanidad (Vertical Slice 2D Sidescroller)
 
 **Tipo:** Vertical Slice 2D Sidescroller  
