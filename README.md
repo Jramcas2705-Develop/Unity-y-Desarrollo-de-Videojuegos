@@ -16,6 +16,7 @@ Mi enfoque principal es **Unity 2D**, **diseño de niveles** y **narrativa ambie
 ---
 
 ## Proyecto 1 – Prototipo de IA Básica y Persecución
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/ae87468b-6ec3-4cdb-ba48-e07fcea5abcb" />
 
 **Gameplay:** [Ver video](https://youtu.be/FiqMQlusgic)
 
