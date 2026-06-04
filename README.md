@@ -84,7 +84,8 @@ Cuando cada jugador haya mirado su carta, se pulsa el botón rojo para inicializ
 - 4º Fase de revelación:
 Cada jugador debe pulsar en la carta del que sospechen para sumar un voto, cuando terminen se pulsa de nuevo el botón rojo para revelar si han acertado o no.
 
-**Detalles de la arquitectura y desarrollo:
+**Detalles de la arquitectura y desarrollo:**
+
 El juego tiene 2 scrips principales, el Imposter Game Manager y el Game Loop Manager, el Game Manager contiene principalmente una lista de strings con las palabras que pueden salir (muchas con doble sentido como banco, ratón o copa), una lista de Objetos de jugadores y una lista de Objetos de cartas, al iniciar el juego empieza mostrando el Canvas panel con los botones e inputfields de unity para seleccionar a los jugadores y el nº de impostores, después el manager coge una palabra de una posición aleatoria de la lista y usa dos bucles for, uno para inicializar las cartas y otro para inicializar los jugadores, en cada iteración se instancia el objeto y se le aplica un id usando la variable i (iterator) que se usa para recorrer la lista, de forma que al jugador con id 0 le pertenezca la carta con id 0 y así.
 
 El Manager llama al Game Loop Manager y le pasa la palabra y las listas ya creadas, el game loop manager se encarga del loop principal del juego (ver cartas --> fase de pistas --> fase de revelación), usa una FSM sencillo para identificar el momento de la partida:
