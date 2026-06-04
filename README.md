@@ -65,54 +65,46 @@ Juego ambientado en una ciudad en ruinas. El jugador debe avanzar usando sigilo 
 <img width="500" alt="1780598452628" src="https://github.com/user-attachments/assets/b8289a28-dfd8-4598-9a60-a15e678e24f1" />
 <img width="500" alt="1780598452642" src="https://github.com/user-attachments/assets/02f426e1-be1d-4130-970f-48c8ec775a40" />
 
-**Tipo:** Social  
-**Rol:** Desarrollo completo (programación, diseño de niveles, assets, animaciones, HUD y Sonidos)  
-**Tecnologías:** Unity 2D, C#, URP, Raycast, Tiled, Aseprite  
+**Tipo:** Social / Deducción / Party Game
+**Rol:** Desarrollador Generalista (Programación, Diseño de Niveles, Arte 2D, Animación, UI/UX y Audio)  
+**Tecnologías:** Unity, C#, Universal Render Pipeline (URP), Raycast, Aseprite  
 
 **Descripción:**  
-Juego **en desarrollo** el juego del impostor donde cada jugador recibe una palabra excepto los impostores, los inocentes dan pistas y los impostores deben de seguir el juego sin ser descubiertos,
-el juego se ha adaptado pensando en un ambiente clásico de mesa con cartas e iluminación cálida para jugar con amigos en móvil.
+Descripción Juego social de deducción diseñado para dispositivos móviles, ambientado en una estética clásica de juego de mesa con iluminación cálida. Los jugadores inocentes reciben una palabra clave secreta y deben dar pistas abstractas para identificarse entre sí, mientras que los impostores deben camuflarse y adivinar la palabra sin ser descubiertos.
 
-**Loop de Juego**
+**Arquitectura de Software y Lógica de Juego**
+El núcleo del juego se apoya en una arquitectura desacoplada gestionada por dos componentes principales y una Máquina de Estados Finitos (FSM) que controla el flujo de la partida.
 
-- 1º Preparación:
-Primero se decide cuantos jugadores van a jugar y si habrá uno o varios impostores, tras esto, el juego comienza con una carta por jugador.
-- 2º Ver Cartas:
-Cada jugador debe clickar en su carta, para cada uno saldrá un reveal panel en forma de carta con la información de la palabra o si es impostor.
-- 3º Fase de pistas:
-Cuando cada jugador haya mirado su carta, se pulsa el botón rojo para inicializar la fase de pistas, cada jugador escribe su pista y esta se ve representada en su carta, así el impostor puede ver siempre las pistas de los jugadores y dar su pista.
-- 4º Fase de revelación:
-Cada jugador debe pulsar en la carta del que sospechen para sumar un voto, cuando terminen se pulsa de nuevo el botón rojo para revelar si han acertado o no.
+1. Controladores Principales
 
-**Detalles de arquitectura y desarrollo:**
+- Imposter Game Manager: Centraliza la persistencia y la configuración inicial. Administra el banco de palabras (diseñado con términos de doble sentido para aumentar la dificultad), la lista de entidades de jugadores y los objetos visuales de las cartas. Automatiza el emparejamiento mediante identificadores unívocos asignados dinámicamente en tiempo de ejecución.
 
-El juego tiene 2 clases principales, el Imposter Game Manager y el Game Loop Manager, el Game Manager contiene principalmente una lista de strings con las palabras que pueden salir (muchas con doble sentido como banco, ratón o copa), una lista de objetos de jugadores y una lista de objetos de cartas, al empezar la clase muestra el panel canvas con los botones e inputfields de unity para seleccionar a los jugadores y el nº de impostores, después el manager coge una palabra de una posición aleatoria de la lista y usa dos bucles for, uno para inicializar las cartas y otro para inicializar los jugadores, en cada iteración se instancia un nuevo objeto y se le aplica un id usando la variable i (iterator) que se usa para recorrer la lista, de forma que al jugador con id 0 le pertenezca la carta con id 0 y así.
+- Game Loop Manager: Dicta el progreso de la partida interactuando directamente con la FSM para segmentar las fases de juego y garantizar la sincronía de los datos.
 
-El Manager llama al Game Loop Manager y le pasa la palabra y las listas ya creadas, el game loop manager se encarga del loop principal del juego (ver cartas --> fase de pistas --> fase de revelación), usa una FSM sencilla para identificar el momento de la partida:
+2. Estructura de Datos (OOP)
 
-- 1º Ver Cartas:
+- Clase Jugador (Abstracta): Almacena el estado interno del usuario (Nombre, ID correlativo, contador de votos acumulados y estado booleano de rol).
 
-Cuando se clicka en una carta, esta ejecuta una función y le pasa su id para pedir la información que le corresponde, esta información la toma el reveal panel que se activa al ejecutar la función dentro del loop manager, si el jugador es inocente verá la palabra y si no pondra impostor.
+- Clase Carta (Abstracta): Controla el comportamiento visual en el escenario, vinculando su ID al jugador y gestionando los contenedores de texto dinámicos (TextMesh Pro).
 
-- 2º Fase de pistas:
+Bucle de Juego (FSM)
 
-Al presionar el botón rojo por primera vez comenzará la fase de pistas, el loop manager usando un bucle for y un botón para avanzar, mostrará el panel con el inputfield de texto para cada jugador, el game loop manager toma la pista escrita y la mete en el text mesh pro de la carta del jugador para que se vea encima de su carta.
+Configuración:
 
-- 3º Fase de revelación:
+Inicialización de variables de sesión, selección de número de participantes y distribución aleatoria de roles ocultos.
 
-Al pulsar una carta, suma un voto a la variable interna del objeto jugador correspondiente y al darle al botón rojo de nuevo, este recorrerá la lista de jugadores con un for y comparará cuál tiene más votos.
+Inspección (Reveal Phase): Sistema de interacción individual donde cada jugador activa un panel emergente mediante clics independientes basados en Raycast para visualizar su rol de forma privada.
 
-La clase abstracta jugador contiene los atributos: nombre, votos, id, isImposter.
-La clase abstracta carta contiene los atributos: TextContent, id.
+Fase de Pistas: Entrada de texto dinámica por turnos a través de inputs de UI. Los datos se inyectan en tiempo real en los componentes de texto de las cartas físicas, manteniéndolas visibles para la estrategia del impostor.
+
+Votación y Resolución: Registro de votos mediante clics directos sobre los avatares. Un algoritmo de ordenación evalúa la lista de jugadores para determinar el usuario más votado y resolver la condición de victoria o derrota.
 
 **Características clave:**
 
-- Elementos de HUD: botones y objetos interactuables  
-- Diseño y dirección artística
-- Creación de assets 2D
-- Optimización de loop de juego 
+- Diseño Técnico UI/UX: botones y objetos interactuables  
+- Dirección de arte técnica
 - Programación orientada a objetos y objetos instanciables
-- Optimización de arquitectura de juego
+- Arquitectura de sistemas
 
 ---
 
