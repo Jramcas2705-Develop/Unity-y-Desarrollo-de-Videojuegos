@@ -88,10 +88,10 @@ Cada jugador debe pulsar en la carta del que sospechen para sumar un voto, cuand
 
 - Elementos de HUD: botones y objetos interactuables  
 - Diseño y dirección artística
+- Creación de assets 2D
 - Optimización de loop de juego 
 - Programación orientada a objetos y objetos instanciables
 - Optimización de arquitectura de juego
-- Creación de assets 2D
 
 ---
 
