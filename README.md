@@ -75,7 +75,7 @@ el juego se ha adaptado pensando en un ambiente clásico de mesa con cartas e il
 
 **Loop de Juego**
 
-- 1º Jugadores:
+- 1º Preparación:
 Primero se decide cuantos jugadores van a jugar y si habrá uno o varios impostores, tras esto, el juego comienza con una carta por jugador.
 - 2º Mirar cartas:
 Cada jugador debe clickar en su carta, para cada uno saldrá un reveal panel en forma de carta con la información de la palabra o si es impostor.
