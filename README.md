@@ -1,6 +1,6 @@
 # 🎮 Portafolio de Desarrollo y Diseño de Videojuegos en Unity
 
-Soy **José Ángel**, desarrollador y diseñador de videojuegos en formación, actualmente cursando **Grado Superior en Desarrollo de Aplicaciones Web**.  
+¡Hola! soy **José Ángel**, desarrollador y diseñador de videojuegos en formación, actualmente cursando **Grado Superior en Desarrollo de Aplicaciones Web**.  
 He trabajado de forma **independiente en todos los proyectos**: programación, diseño de niveles, creación de assets, animaciones básicas, HUD, sonido y documentación.  
 
 Mi enfoque principal es **Unity 2D**, **diseño de niveles** y **narrativa ambiental**, donde los escenarios cuentan la historia al jugador.
@@ -109,7 +109,7 @@ Votación y Resolución: Registro de votos mediante clics directos sobre los ava
 
 ---
 
-## Proyecto 4 (En pausa a largo plazo) – Los Ecos de la Humanidad
+## Proyecto 4 (En pausa estratégica) – Los Ecos de la Humanidad
 
 <img width="500" alt="1780596839542" src="https://github.com/user-attachments/assets/b3938605-0314-4658-877f-8cff97faf0e7" />
 <img width="500" alt="1780597923876" src="https://github.com/user-attachments/assets/2cd8f016-2e3c-403b-9f16-1996e207906c" />
