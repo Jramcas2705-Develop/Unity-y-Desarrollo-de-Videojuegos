@@ -17,6 +17,8 @@ Mi enfoque principal es **Unity 2D**, **diseño de niveles** y **narrativa ambie
 
 ## Proyecto 1 – Prototipo de IA Básica y Persecución
 
+**Gameplay:** [Ver video](https://youtu.be/FiqMQlusgic)
+
 **Tipo:** Prueba técnica Unity3D  
 **Rol:** Desarrollo completo (programación, IA, nivel básico)  
 **Tecnologías:** Unity 3D, C#, NavMesh, Raycast, FSM  
@@ -29,13 +31,13 @@ Prototipo de IA donde un enemigo patrulla una ruta y persigue al jugador al ser 
 - Patrulla con NavMesh y ruta predefinida  
 - Detección por Raycast  
 - Persecución del jugador  
-- Evasión de obstáculos  
-
-**Gameplay:** [Ver video](https://youtu.be/FiqMQlusgic)
+- Evasión de obstáculos
 
 ---
 
 ## Proyecto 2 – Your Last Breath (Sidescroller de zombies)
+
+**Gameplay:** [Ver video](https://youtu.be/kur3Hj57bBY?feature=shared)
 
 **Tipo:** Sidescroller 2D de sigilo y combate  
 **Rol:** Desarrollo completo (programación, IA de enemigos, diseño de niveles, HUD, assets)  
@@ -53,17 +55,17 @@ Juego ambientado en una ciudad en ruinas. El jugador debe avanzar usando sigilo 
 - Gestión de loot y objetos  
 - Nivel diseñado con Tilemaps  
 
-**Gameplay:** [Ver video](https://youtu.be/kur3Hj57bBY?feature=shared)
-
 ---
-## Proyecto 3 – Los Ecos de la Humanidad (Vertical Slice 2D Sidescroller)(Proyecto Pausado)
+## Proyecto 3 – El Juego del Impostor
+
+<img width="1584" height="711" alt="image" src="https://github.com/user-attachments/assets/dad8af99-5428-43af-89e2-6b8b163375b7" />
 
 **Tipo:** Vertical Slice 2D Sidescroller  
-**Rol:** Desarrollo completo (programación, diseño de niveles, assets, animaciones, HUD, triggers y efectos ambientales)  
+**Rol:** Desarrollo completo (programación, diseño de niveles, assets, animaciones, HUD y Sonidos)  
 **Tecnologías:** Unity 2D, C#, URP, Raycast, Tiled, Aseprite  
 
 **Descripción:**  
-Juego **en desarrollo** con enfoque en **narrativa ambiental y exploración**. El jugador se mueve por naves espaciales en ruinas, recolectando recuerdos de la humanidad. El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
+Juego **en desarrollo** 
 
 **Características clave:**
 
@@ -73,16 +75,18 @@ Juego **en desarrollo** con enfoque en **narrativa ambiental y exploración**. E
 - Diseño de nivel enfocado en narrativa ambiental  
 - Vertical Slice de 10–15 minutos jugables  
 
-<img width="1584" height="711" alt="image" src="https://github.com/user-attachments/assets/dad8af99-5428-43af-89e2-6b8b163375b7" />
 
-## Proyecto 4 (En pausa) – Los Ecos de la Humanidad (Vertical Slice 2D Sidescroller)
+## Proyecto 4 (En pausa a largo plazo) – Los Ecos de la Humanidad
+
+<img width="913" height="522" alt="1780596839542" src="https://github.com/user-attachments/assets/b3938605-0314-4658-877f-8cff97faf0e7" />
+<img width="924" height="526" alt="1780597923876" src="https://github.com/user-attachments/assets/2cd8f016-2e3c-403b-9f16-1996e207906c" />
 
 **Tipo:** Vertical Slice 2D Sidescroller  
 **Rol:** Desarrollo completo (programación, diseño de niveles, assets, animaciones, HUD, triggers y efectos ambientales)  
 **Tecnologías:** Unity 2D, C#, URP, Raycast, Tiled, Aseprite  
 
 **Descripción:**  
-Juego **en desarrollo** con enfoque en **narrativa ambiental y exploración**. El jugador se mueve por naves espaciales en ruinas, recolectando recuerdos de la humanidad. El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
+Juego **en pausa para largo plazo** con enfoque en **narrativa ambiental y exploración**. El jugador se mueve por naves espaciales en ruinas, recolectando recuerdos de la humanidad. El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
 
 **Características clave:**
 
