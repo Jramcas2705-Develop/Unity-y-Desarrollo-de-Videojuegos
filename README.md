@@ -59,13 +59,17 @@ Juego ambientado en una ciudad en ruinas. El jugador debe avanzar usando sigilo 
 ## Proyecto 3 – El Juego del Impostor
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/dad8af99-5428-43af-89e2-6b8b163375b7" />
+<img width="500" alt="1780598452615" src="https://github.com/user-attachments/assets/2b339c31-42ca-48a6-80d1-dc963ae08dad" />
+<img width="500" alt="1780598452628" src="https://github.com/user-attachments/assets/b8289a28-dfd8-4598-9a60-a15e678e24f1" />
+<img width="500" alt="1780598452642" src="https://github.com/user-attachments/assets/02f426e1-be1d-4130-970f-48c8ec775a40" />
 
 **Tipo:** Vertical Slice 2D Sidescroller  
 **Rol:** Desarrollo completo (programación, diseño de niveles, assets, animaciones, HUD y Sonidos)  
 **Tecnologías:** Unity 2D, C#, URP, Raycast, Tiled, Aseprite  
 
 **Descripción:**  
-Juego **en desarrollo** 
+Juego **en desarrollo** el juego del impostor donde cada jugador recibe una palabra excepto los impostores, los inocentes dan pistas y los impostores deben de seguir el juego sin ser descubiertos,
+el juego se ha adaptado pensando en un ambiente clásico de mesa con cartas e iluminación cálida para jugar con amigos en móvil.
 
 **Características clave:**
 
