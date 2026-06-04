@@ -64,14 +64,13 @@ Juego ambientado en una ciudad en ruinas. El jugador debe avanzar usando sigilo 
 **Tecnologías:** Unity 2D, C#, URP, Raycast, Tiled, Aseprite  
 
 **Descripción:**  
-Juego **en desarrollo** con enfoque en **narrativa ambiental y exploración**. El jugador se mueve por naves espaciales en ruinas, recolectando “ecos” de la humanidad y resolviendo puzzles de sigilo. El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
+Juego **en desarrollo** con enfoque en **narrativa ambiental y exploración**. El jugador se mueve por naves espaciales en ruinas, recolectando recuerdos de la humanidad. El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
 
 **Características clave:**
 
 - Triggers de daño y efectos ambientales  
 - Elementos de HUD: salud, notificaciones, botones  
 - Efecto Parallax para profundidad y atmósfera  
-- Sigilo frente a droides de seguridad  
 - Diseño de nivel enfocado en narrativa ambiental  
 - Vertical Slice de 10–15 minutos jugables  
 
