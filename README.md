@@ -1,4 +1,4 @@
-# 🎮 Desarrollo y Diseño de Videojuegos en Unity
+# 🎮 Portafolio de Desarrollo y Diseño de Videojuegos en Unity
 
 Soy **José Ángel**, desarrollador y diseñador de videojuegos en formación, actualmente cursando **Grado Superior en Desarrollo de Aplicaciones Web**.  
 He trabajado de forma **independiente en todos los proyectos**: programación, diseño de niveles, creación de assets, animaciones básicas, HUD, sonido y documentación.  
