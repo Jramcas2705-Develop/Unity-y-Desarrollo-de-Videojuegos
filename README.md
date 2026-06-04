@@ -58,7 +58,7 @@ Juego ambientado en una ciudad en ruinas. El jugador debe avanzar usando sigilo 
 ---
 ## Proyecto 3 – El Juego del Impostor
 
-<img width="1584" height="711" alt="image" src="https://github.com/user-attachments/assets/dad8af99-5428-43af-89e2-6b8b163375b7" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/dad8af99-5428-43af-89e2-6b8b163375b7" />
 
 **Tipo:** Vertical Slice 2D Sidescroller  
 **Rol:** Desarrollo completo (programación, diseño de niveles, assets, animaciones, HUD y Sonidos)  
