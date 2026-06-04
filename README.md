@@ -78,6 +78,7 @@ Juego **en desarrollo** con enfoque en **narrativa ambiental y exploración**. E
 **GDD:** “Los Ecos de la Humanidad – Vertical Slice” *(disponible en el repo)*
 
 ---
+<img width="1584" height="711" alt="image" src="https://github.com/user-attachments/assets/dad8af99-5428-43af-89e2-6b8b163375b7" />
 
 ## 🛠️ Tecnologías y herramientas
 
