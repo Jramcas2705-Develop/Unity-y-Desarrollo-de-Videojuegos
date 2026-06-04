@@ -73,6 +73,7 @@ Juego ambientado en una ciudad en ruinas. El jugador debe avanzar usando sigilo 
 Descripción Juego social de deducción diseñado para dispositivos móviles, ambientado en una estética clásica de juego de mesa con iluminación cálida. Los jugadores inocentes reciben una palabra clave secreta y deben dar pistas abstractas para identificarse entre sí, mientras que los impostores deben camuflarse y adivinar la palabra sin ser descubiertos.
 
 **Arquitectura de Software y Lógica de Juego**
+
 El núcleo del juego se apoya en una arquitectura desacoplada gestionada por dos componentes principales y una Máquina de Estados Finitos (FSM) que controla el flujo de la partida.
 
 1. Controladores Principales
