@@ -81,6 +81,7 @@ el juego se ha adaptado pensando en un ambiente clásico de mesa con cartas e il
 - Diseño de nivel enfocado en narrativa ambiental  
 - Vertical Slice de 10–15 minutos jugables  
 
+---
 
 ## Proyecto 4 (En pausa a largo plazo) – Los Ecos de la Humanidad
 
