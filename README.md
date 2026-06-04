@@ -65,7 +65,7 @@ Juego ambientado en una ciudad en ruinas. El jugador debe avanzar usando sigilo 
 <img width="500" alt="1780598452628" src="https://github.com/user-attachments/assets/b8289a28-dfd8-4598-9a60-a15e678e24f1" />
 <img width="500" alt="1780598452642" src="https://github.com/user-attachments/assets/02f426e1-be1d-4130-970f-48c8ec775a40" />
 
-**Tipo:** Vertical Slice 2D Sidescroller  
+**Tipo:** Social  
 **Rol:** Desarrollo completo (programación, diseño de niveles, assets, animaciones, HUD y Sonidos)  
 **Tecnologías:** Unity 2D, C#, URP, Raycast, Tiled, Aseprite  
 
