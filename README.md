@@ -77,15 +77,27 @@ el juego se ha adaptado pensando en un ambiente clásico de mesa con cartas e il
 
 - 1º Preparación:
 Primero se decide cuantos jugadores van a jugar y si habrá uno o varios impostores, tras esto, el juego comienza con una carta por jugador.
-- 2º Mirar cartas:
+- 2º Ver Cartas:
 Cada jugador debe clickar en su carta, para cada uno saldrá un reveal panel en forma de carta con la información de la palabra o si es impostor.
 - 3º Fase de pistas:
 Cuando cada jugador haya mirado su carta, se pulsa el botón rojo para inicializar la fase de pistas, cada jugador escribe su pista y esta se ve representada en su carta, así el impostor puede ver siempre las pistas de los jugadores y dar su pista.
-- 4º Votación y final del juego:
+- 4º Fase de revelación:
 Cada jugador debe pulsar en la carta del que sospechen para sumar un voto, cuando terminen se pulsa de nuevo el botón rojo para revelar si han acertado o no.
 
-**Detalles de la arquitectura y métodos empleados:
-El juego tiene 2 scrips principales, el Imposter Game Manager y el Game Loop Manager, el Game Manager contiene principalmente una lista de strings con las palabras que pueden salir (muchas con doble sentido como banco, ratón o copa), una lista de Objetos de jugadores y una lista de Objetos de cartas, al iniciar el juego este script se ejecuta y muestra el panel para seleccionar a los jugadores
+**Detalles de la arquitectura y desarrollo:
+El juego tiene 2 scrips principales, el Imposter Game Manager y el Game Loop Manager, el Game Manager contiene principalmente una lista de strings con las palabras que pueden salir (muchas con doble sentido como banco, ratón o copa), una lista de Objetos de jugadores y una lista de Objetos de cartas, al iniciar el juego empieza mostrando el Canvas panel con los botones e inputfields de unity para seleccionar a los jugadores y el nº de impostores, después el manager coge una palabra de una posición aleatoria de la lista y usa dos bucles for, uno para inicializar las cartas y otro para inicializar los jugadores, en cada iteración se instancia el objeto y se le aplica un id usando la variable i (iterator) que se usa para recorrer la lista, de forma que al jugador con id 0 le pertenezca la carta con id 0 y así.
+
+El Manager llama al Game Loop Manager y le pasa la palabra y las listas ya creadas, el game loop manager se encarga del loop principal del juego (ver cartas --> fase de pistas --> fase de revelación), usa una FSM sencillo para identificar el momento de la partida:
+
+- 1º Ver Cartas:
+Cuando se clicka en una carta, esta ejecuta una función, le pasa su id para pedir la información que le corresponde y esta información la toma el reveal panel que se activa al ejecutar la función dentro del loop manager, si el jugador es inocente verá la palabra y si no pondra impostor.
+- 2º Fase de pistas:
+Al presionar el botón rojo por primera vez comenzará la fase de pistas, el loop manager con un buvle for mostrará el panel con el inputfield de texto de cada jugador para que escriba su pista, el game loop manager toma la pista y la mete en text mesh pro de la carta del jugador para que se vea encima de su carta.
+3º Fase de revelación:
+Al pulsar una carta, suma un voto a la variable interna del objeto jugador correspondiente y al darle al botón rojo de nuevo, este recorrerá la lista de jugadores con un for y comparará cuál tiene más votos.
+
+La clase jugador contiene los atributos: nombre, votos, id, isImposter.
+La clase carta contiene los atributos: TextContent, id.
 
 **Características clave:**
 
