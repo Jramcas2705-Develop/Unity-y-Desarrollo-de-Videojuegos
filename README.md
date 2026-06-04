@@ -84,6 +84,9 @@ Cuando cada jugador haya mirado su carta, se pulsa el botón rojo para inicializ
 - 4º Votación y final del juego:
 Cada jugador debe pulsar en la carta del que sospechen para sumar un voto, cuando terminen se pulsa de nuevo el botón rojo para revelar si han acertado o no.
 
+**Detalles de la arquitectura y métodos empleados:
+El juego tiene 2 scrips principales, el Imposter Game Manager y el Game Loop Manager, el Game Manager contiene principalmente una lista de strings con las palabras que pueden salir (muchas con doble sentido como banco, ratón o copa), una lista de Objetos de jugadores y una lista de Objetos de cartas, al iniciar el juego este script se ejecuta y muestra el panel para seleccionar a los jugadores
+
 **Características clave:**
 
 - Elementos de HUD: botones y objetos interactuables  
