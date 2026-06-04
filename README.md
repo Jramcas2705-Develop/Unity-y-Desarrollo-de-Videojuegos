@@ -78,8 +78,8 @@ Juego **en desarrollo**
 
 ## Proyecto 4 (En pausa a largo plazo) – Los Ecos de la Humanidad
 
-<img width="913" height="522" alt="1780596839542" src="https://github.com/user-attachments/assets/b3938605-0314-4658-877f-8cff97faf0e7" />
-<img width="924" height="526" alt="1780597923876" src="https://github.com/user-attachments/assets/2cd8f016-2e3c-403b-9f16-1996e207906c" />
+<img width="500" alt="1780596839542" src="https://github.com/user-attachments/assets/b3938605-0314-4658-877f-8cff97faf0e7" />
+<img width="500" alt="1780597923876" src="https://github.com/user-attachments/assets/2cd8f016-2e3c-403b-9f16-1996e207906c" />
 
 **Tipo:** Vertical Slice 2D Sidescroller  
 **Rol:** Desarrollo completo (programación, diseño de niveles, assets, animaciones, HUD, triggers y efectos ambientales)  
