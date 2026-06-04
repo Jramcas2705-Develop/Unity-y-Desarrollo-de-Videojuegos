@@ -73,13 +73,24 @@ Juego ambientado en una ciudad en ruinas. El jugador debe avanzar usando sigilo 
 Juego **en desarrollo** el juego del impostor donde cada jugador recibe una palabra excepto los impostores, los inocentes dan pistas y los impostores deben de seguir el juego sin ser descubiertos,
 el juego se ha adaptado pensando en un ambiente clásico de mesa con cartas e iluminación cálida para jugar con amigos en móvil.
 
+**Loop de Juego**
+
+1º Jugadores:
+Primero se decide cuantos jugadores van a jugar y si habrá uno o varios impostores, tras esto, el juego comienza con una carta por jugador.
+2º Mirar cartas:
+Cada jugador debe clickar en su carta, para cada uno saldrá un reveal panel en forma de carta con la información de la palabra o si es impostor.
+3º Fase de pistas:
+Cuando cada jugador haya mirado su carta, se pulsa el botón rojo para inicializar la fase de pistas, cada jugador escribe su pista y esta se ve representada en su carta, así el impostor puede ver siempre las pistas de los jugadores y dar su pista.
+4º Votación y final del juego:
+Cada jugador debe pulsar en la carta del que sospechen para sumar un voto, cuando terminen se pulsa de nuevo el botón rojo para revelar si han acertado o no.
+
 **Características clave:**
 
-- Triggers de daño y efectos ambientales  
-- Elementos de HUD: salud, notificaciones, botones  
-- Efecto Parallax para profundidad y atmósfera  
-- Diseño de nivel enfocado en narrativa ambiental  
-- Vertical Slice de 10–15 minutos jugables  
+- Elementos de HUD: botones y objetos interactuables  
+- Diseño y dirección artística
+- Optimización de loop de juego 
+- Programación orientada a objetos y objetos instanciables
+- Optimización de arquitectura de juego
 
 ---
 
