@@ -11,7 +11,7 @@ Mi enfoque principal es **Unity 2D**, **diseño de niveles** y **narrativa ambie
 
 1. [Proyecto 1 – Prototipo de IA Básica y Persecución](#proyecto-1---prototipo-de-ia-básica-y-persecución)  
 2. [Proyecto 2 – Your Last Breath (Sidescroller de zombies)](#proyecto-2---your-last-breath)  
-3. [Proyecto-3---El-Juego-del-Impostor](#proyecto-3---El-Juego-del-Impostor)
+3 [Proyecto 3 - El Juego del Impostor](#proyecto-3---El-Juego-del-Impostor)
 4. [Proyecto 4 – Los Ecos de la Humanidad (Vertical Slice 2D Sidescroller)](#proyecto-4---los-ecos-de-la-humanidad)
 
 ---
