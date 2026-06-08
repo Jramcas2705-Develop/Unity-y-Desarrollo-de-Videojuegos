@@ -120,7 +120,7 @@ Votación y Resolución: Registro de votos mediante clics directos sobre los ava
 **Tecnologías:** Unity 2D, C#, URP, Raycast, Tiled, Aseprite  
 
 **Descripción:**  
-Juego **en pausa para largo plazo** con enfoque en **narrativa ambiental y exploración**. El jugador se mueve por naves espaciales en ruinas, recolectando recuerdos de la humanidad. El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
+Juego **en pausa estratégica** con enfoque en **narrativa ambiental y exploración**. El jugador se mueve por naves espaciales en ruinas, recolectando recuerdos de la humanidad. El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
 
 **Características clave:**
 
