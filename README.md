@@ -120,7 +120,7 @@ Votación y Resolución: Registro de votos mediante clics directos sobre los ava
 **Tecnologías:** Unity 2D, C#, URP, Raycast, Tiled, Aseprite  
 
 **Descripción:**  
-Juego con enfoque en **narrativa ambiental y exploración**. El jugador se mueve por enormes naves espaciales en ruinas, inundadas y varadas en playas infinitas, el jugador recolecta recuerdos (ecos) de la humanidad dentro las grandes naves que aguardaron su destino. El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
+Juego con enfoque en **narrativa ambiental, exploración y plataformeo**. Ambientado en un planeta nublado y remoto donde habita un cementerio de enormes naves espaciales en ruinas, semi-inundadas y varadas en vastas playas, el jugador toma el rol de "Gran Enterrador" para buscar los "ecos de la humanidad" (objetos cotidianos y culturales de la historia humana) esparcidos dentro las grandes naves que aguardaron su destino. El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
 
 **Características clave:**
 
