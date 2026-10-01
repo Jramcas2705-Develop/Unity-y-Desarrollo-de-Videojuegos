@@ -114,8 +114,8 @@ Votación y Resolución: Registro de votos mediante clics directos sobre los ava
 
 <img width="500" alt="1780596839542" src="https://github.com/user-attachments/assets/b3938605-0314-4658-877f-8cff97faf0e7" />
 <img width="500" alt="1780597923876" src="https://github.com/user-attachments/assets/2cd8f016-2e3c-403b-9f16-1996e207906c" />
-<img width="653" height="364" alt="image" src="https://github.com/user-attachments/assets/22b8c7e0-0025-48ef-915b-1bb2ee1d46d3" />
-<img width="655" height="366" alt="image" src="https://github.com/user-attachments/assets/71e9ae04-fb32-4032-a5d2-0f9e22cf65c8" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/22b8c7e0-0025-48ef-915b-1bb2ee1d46d3" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/20f97ba0-1811-4a32-a3c7-e4dd69033540" />
 
 
 **Tipo:** Vertical Slice 2D Sidescroller  
