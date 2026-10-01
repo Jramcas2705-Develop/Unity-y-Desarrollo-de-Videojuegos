@@ -110,7 +110,7 @@ Votación y Resolución: Registro de votos mediante clics directos sobre los ava
 
 ---
 
-## Proyecto 4 (En pausa estratégica) – Los Ecos de la Humanidad
+## Proyecto 4 (Proyecto Intermodular) – Los Ecos de la Humanidad
 
 <img width="500" alt="1780596839542" src="https://github.com/user-attachments/assets/b3938605-0314-4658-877f-8cff97faf0e7" />
 <img width="500" alt="1780597923876" src="https://github.com/user-attachments/assets/2cd8f016-2e3c-403b-9f16-1996e207906c" />
