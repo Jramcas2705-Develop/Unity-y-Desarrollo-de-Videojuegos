@@ -134,7 +134,7 @@ Juego con enfoque en **ambientación, exploración y plataformeo**. Ambientado e
 - Vertical Slice de 10–15 minutos jugables  
 
 **Gameplay:** *(video próximamente)*  
-**GDD:** “Los Ecos de la Humanidad – Vertical Slice” *([Enlace a Google Docs](https://docs.google.com/document/d/18R9TLyks1joYMlBXHM-8ynUdv5Eb7toh8SYlquyo0ow/edit?usp=sharing))*
+**GDD:** “Los Ecos de la Humanidad – Vertical Slice” *([Enlace en Google Docs](https://docs.google.com/document/d/18R9TLyks1joYMlBXHM-8ynUdv5Eb7toh8SYlquyo0ow/edit?usp=sharing))*
 
 ---
 
