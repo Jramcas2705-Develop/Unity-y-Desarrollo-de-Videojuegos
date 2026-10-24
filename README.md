@@ -112,11 +112,7 @@ Votación y Resolución: Registro de votos mediante clics directos sobre los ava
 
 ## Proyecto 4 (Proyecto Intermodular en Desarrollo) – Los Ecos de la Humanidad
 **Imágenes de referencia, no representan el aspecto final**
-<img width="500" alt="1780596839542" src="https://github.com/user-attachments/assets/b3938605-0314-4658-877f-8cff97faf0e7" />
-<img width="500" alt="1780597923876" src="https://github.com/user-attachments/assets/2cd8f016-2e3c-403b-9f16-1996e207906c" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/22b8c7e0-0025-48ef-915b-1bb2ee1d46d3" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/20f97ba0-1811-4a32-a3c7-e4dd69033540" />
-
+<img width="807" height="451" alt="image" src="https://github.com/user-attachments/assets/e0d76ef5-ac7f-4c77-872c-fcb934e006ad" />
 
 **Tipo:** Vertical Slice 2D Sidescroller  
 **Rol:** Desarrollo completo (programación, diseño de niveles, assets, animaciones, HUD, triggers y efectos ambientales)  
