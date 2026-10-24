@@ -127,7 +127,8 @@ Juego con enfoque en **ambientación, exploración y plataformeo**. Ambientado e
 - Elementos de HUD: salud, notificaciones, botones  
 - Efecto Parallax para profundidad y atmósfera  
 - Diseño de nivel enfocado en narrativa ambiental  
-- Vertical Slice de 10–15 minutos jugables  
+- Vertical Slice de 10–15 minutos jugables
+- Efectos de PostProcesado y composición  
 
 **Gameplay:** *(video próximamente)*  
 **GDD:** “Los Ecos de la Humanidad – Vertical Slice” *([Enlace en Google Docs](https://docs.google.com/document/d/18R9TLyks1joYMlBXHM-8ynUdv5Eb7toh8SYlquyo0ow/edit?usp=sharing))*
