@@ -114,7 +114,7 @@ Votación y Resolución: Registro de votos mediante clics directos sobre los ava
 **Imágenes de referencia, no representan el aspecto final**
 
 <img width="801" height="446" alt="image" src="https://github.com/user-attachments/assets/ba0916ec-9a28-4096-91ea-6977296bcea1" />
-<img width="801" height="446" alt="image" src="https://github.com/user-attachments/assets/98c5c4ab-c40a-49eb-9959-ab0cec8b79ec" />
+<img width="801" height="446" alt="image" src="https://github.com/user-attachments/assets/d40c6a73-0d19-4445-b865-6130ef8718ef" />
 
 **Tipo:** Vertical Slice 2D Sidescroller  
 **Rol:** Desarrollo completo (programación, diseño de niveles, assets, animaciones, HUD, triggers y efectos ambientales)  
