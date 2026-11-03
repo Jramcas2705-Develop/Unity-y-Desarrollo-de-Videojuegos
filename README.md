@@ -123,8 +123,6 @@ Votación y Resolución: Registro de votos mediante clics directos sobre los ava
 **Descripción:**  
 Juego con enfoque en **ambientación, exploración y plataformeo**. Ecos de la humanidad es un juego de plataformas ambiental 2D sidescroller que transcurre en un remoto planeta nublado, con vastas playas donde gigantescas naves de transporte reposan en ruinas tras haber llevado a la mitad de la humanidad hacia su perdición, el jugador asume el papel de “Gran Enterrador” cuya misión es recuperar los ecos de la humanidad (Recuerdos y objetos cotidianos de la cultura humana). El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
 
-Ecos de la humanidad es un juego de plataformas ambiental 2D sidescroller que transcurre en un remoto planeta nublado, con vastas playas donde gigantescas naves de transporte reposan en ruinas tras haber llevado a la mitad de la humanidad hacia su perdición, el jugador asume el papel de “Gran Enterrador” cuya misión es recuperar los ecos de la humanidad (Recuerdos y objetos cotidianos de la cultura humana).
-
 **Características clave:**
 
 - Triggers de daño y efectos ambientales  
