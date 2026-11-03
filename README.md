@@ -121,7 +121,9 @@ Votación y Resolución: Registro de votos mediante clics directos sobre los ava
 **Tecnologías:** Unity 2D, C#, URP, Raycast, Tiled, Aseprite  
 
 **Descripción:**  
-Juego con enfoque en **ambientación, exploración y plataformeo**. Ambientado en un planeta nublado y remoto donde habita un cementerio de enormes naves espaciales en ruinas, semi-inundadas y varadas en vastas playas, el jugador toma el rol de "Gran Enterrador" para buscar los "ecos de la humanidad" (objetos cotidianos y culturales de la historia humana) esparcidos dentro las grandes naves que aguardaron su destino. El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
+Juego con enfoque en **ambientación, exploración y plataformeo**. Ecos de la humanidad es un juego de plataformas ambiental 2D sidescroller que transcurre en un remoto planeta nublado, con vastas playas donde gigantescas naves de transporte reposan en ruinas tras haber llevado a la mitad de la humanidad hacia su perdición, el jugador asume el papel de “Gran Enterrador” cuya misión es recuperar los ecos de la humanidad (Recuerdos y objetos cotidianos de la cultura humana). El objetivo es transmitir **curiosidad, tragedia, drama y misterio**.
+
+Ecos de la humanidad es un juego de plataformas ambiental 2D sidescroller que transcurre en un remoto planeta nublado, con vastas playas donde gigantescas naves de transporte reposan en ruinas tras haber llevado a la mitad de la humanidad hacia su perdición, el jugador asume el papel de “Gran Enterrador” cuya misión es recuperar los ecos de la humanidad (Recuerdos y objetos cotidianos de la cultura humana).
 
 **Características clave:**
 
